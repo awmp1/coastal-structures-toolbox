@@ -23,8 +23,8 @@ you through the process.
 .. _Python installation guide: http://docs.python-guide.org/en/latest/starting/installation/
 
 
-From sources
-------------
+Sources
+-------
 
 The sources for deltares_coastal_structures_toolbox can be downloaded from the `Github repo`_.
 
@@ -39,12 +39,6 @@ Or download the `tarball`_:
 .. code-block:: console
 
     $ curl -OJL https://github.com/Deltares-research/coastal-structures-toolbox/tarball/master
-
-Once you have a copy of the source, you can install it with:
-
-.. code-block:: console
-
-    $ python setup.py install
 
 
 .. _Github repo: https://github.com/Deltares-research/coastal-structures-toolbox
